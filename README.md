@@ -1,0 +1,2 @@
+# SecantMethod
+SecantMethod_GUI_Approach_MATLAB_FarmanAli
